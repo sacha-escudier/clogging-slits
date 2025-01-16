@@ -1,0 +1,5 @@
+File name,Width (W/d),Height (H/d),Phi,Event No.,Frame rate,No arch [frame],Arch made [frame],Arch break [frame],t_flow [s],t_arch [s],V_flow [mm3],V_arch [mm3],notes,Unnamed: 14
+"w2,7_h3,1_ts500_phic_1ml,min_100fps_1",,,,,,,,,,,,,,
+,2.7,3.1,,1,100,328,490,558,1.62,0.68,27,11.33333333,temp,
+,2.7,3.1,,2,100,558,1987,3416,14.29,14.29,238.1666667,0,Seem to be a permanent arch,
+,2.7,3.1,,3,100,3416,3836,3904,4.2,0.68,70,11.33333333,temp,

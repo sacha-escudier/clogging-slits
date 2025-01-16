@@ -1,0 +1,6 @@
+File name,Width (W/d),Height (H/d),Phi,Event No.,Frame rate,No arch [frame],Arch made [frame],Arch break [frame],t_flow [s],t_arch [s],V_flow [mm3],V_arch [mm3],notes
+"w2,7_h3,6_ts500_phic_1ml,min_100fps_8",,,,,,,,,,,,,
+,2.7,3.6,,1,100,424,855,1469,4.31,6.14,71.83333333,0,permanent
+,2.7,3.6,,2,100,1469,2135,3630,6.66,14.95,111,0,permanent
+,2.7,3.6,,3,100,3630,4675,6428,10.45,17.53,174.1666667,0,permanent
+,2.7,3.6,,4,100,6428,6475,,0.47,,7.833333333,0,video ended

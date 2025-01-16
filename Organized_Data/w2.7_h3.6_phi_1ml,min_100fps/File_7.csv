@@ -1,0 +1,4 @@
+File name,Width (W/d),Height (H/d),Phi,Event No.,Frame rate,No arch [frame],Arch made [frame],Arch break [frame],t_flow [s],t_arch [s],V_flow [mm3],V_arch [mm3],notes
+"w2,7_h3,6_ts500_phic_1ml,min_100fps_7",,,,,,,,,,,,,
+,2.7,3.6,,1,100,264,861,914,5.97,0.53,99.5,8.833333333,temp partial arch
+,2.7,3.6,,2,100,914,,,,,0,0,video ended. An interestng partial arch shown on the right formed

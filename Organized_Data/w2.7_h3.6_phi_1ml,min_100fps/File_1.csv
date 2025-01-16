@@ -1,0 +1,5 @@
+File name,Width (W/d),Height (H/d),Phi,Event No.,Frame rate,No arch [frame],Arch made [frame],Arch break [frame],t_flow [s],t_arch [s],V_flow [mm3],V_arch [mm3],notes
+"w2,7_h3,6_ts500_phic_1ml,min_100fps_1",,,,,,,,,,,,,
+,2.7,3.6,,1,100,481,1426,1888,9.45,4.62,157.5,77,temp
+,2.7,3.6,,2,100,1888,2179,2278,2.91,0.99,48.5,16.5,temp partial arch
+,2.7,3.6,,3,100,2278,3623,,13.45,,224.1666667,0,"temp partial arch, video ended"

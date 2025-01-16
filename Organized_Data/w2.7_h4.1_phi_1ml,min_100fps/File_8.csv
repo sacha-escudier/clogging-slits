@@ -1,0 +1,4 @@
+File name,Width (W/d),Height (H/d),Phi,Event No.,Frame rate,No arch [frame],Arch made [frame],Arch break [frame],t_flow [s],t_arch [s],V_flow [mm3],V_arch [mm3],Des 1,Des 2,Des 3
+"w2,7_h4,1_ts500_phic_1ml,min_100fps_8",2.7,4.1,0.6,1,100,427,560,1998,1.33,14.38,22.16666667,0,temporary,,
+,,,,,100,1998,2043,,0.45,,7.5,0,,,
+,,,,,100,,,,,0,,,,,
