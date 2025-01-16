@@ -1,0 +1,5 @@
+File name,Width (W/d),Height (H/d),Phi,Event No.,Frame rate,No arch [frame],Arch made [frame],Arch break [frame],t_flow [s],t_arch [s],V_flow [mm3],V_arch [mm3],Unnamed: 13,Des 1,Des 2,Des 3
+"w2,7_h2,6_ts500_phic_1ml,min_100fps_11",2.7,2.6,0.6,1,100,131,1297,1646,11.66,3.49,194.3333333,58.16666667,temporary,,,
+,2.7,2.6,0.6,2,100,1646,2046,2309,4,2.63,66.66666667,43.83333333,temporary,,,
+,2.7,2.6,0.6,3,100,2309,2414,2426,1.05,0.12,17.5,0,temporary,,,
+,2.7,2.6,0.6,4,100,2426,2687,,2.61,,43.5,0,,,,
